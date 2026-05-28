@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pookienatorking.aternos.me:27640",
+    "ip": "pookienatorking.aternos.me",
     "port": 27640,
     "version": "26.1.2",
     "try-creative": false
